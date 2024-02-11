@@ -16,3 +16,4 @@ pymongo==3.11.3
 pyparsing<3
 simplejson
 six==1.13.0
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
