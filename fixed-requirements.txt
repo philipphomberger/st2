@@ -6,7 +6,7 @@ apscheduler==3.10.4
 chardet==5.2.0
 cffi==1.16.0
 # NOTE: 2.0 version breaks pymongo work with hosts
-dnspython>=1.16.0,<2.0.0
+dnspython>=2.6.0rc1,<2.0.0
 cryptography==41.0.7
 # Note: 0.20.0 removed select.poll() on which some of our code and libraries we
 # depend on rely
