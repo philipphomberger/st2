@@ -15,3 +15,4 @@ oslo.utils<5.0,>=4.0.0
 pymongo==3.11.3
 pyparsing==3.1.1
 six==1.16.0
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
