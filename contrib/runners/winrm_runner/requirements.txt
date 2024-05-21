@@ -6,3 +6,4 @@
 # in-requirements.txt for that component and then run 'make requirements' to
 # update the component requirements.txt
 pywinrm==0.4.3
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
