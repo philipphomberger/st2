@@ -10,3 +10,4 @@ stevedore
 st2-auth-backend-flat-file@ git+https://github.com/StackStorm/st2-auth-backend-flat-file.git@master
 st2-auth-ldap@ git+https://github.com/StackStorm/st2-auth-ldap.git@master
 gunicorn
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
