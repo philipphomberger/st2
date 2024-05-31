@@ -31,7 +31,7 @@ orquesta@ git+https://github.com/philipphomberger/orquesta.git@feature/3.9
 oslo.config>=1.12.1,<1.13
 paramiko==3.3.1
 pyOpenSSL==23.3.0
-pymongo==3.11.3
+pymongo==4.6.3
 python-dateutil==2.8.1
 python-statsd==2.1.0
 pyyaml==6.0.1
