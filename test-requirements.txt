@@ -44,3 +44,4 @@ zstandard==0.15.2
 ujson==4.0.2
 # needed by integration tests for coordination
 redis==3.5.3
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
