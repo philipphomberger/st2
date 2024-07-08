@@ -46,4 +46,9 @@ ujson==5.4.0
 redis==4.3.6
 pygments>=2.15.0 # not directly required, pinned by Snyk to avoid a vulnerability
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
-tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+prompt-toolkit>=3.0.13 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
+waitress>=2.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
