@@ -1,1 +1,2 @@
 orquesta@ git+https://github.com/philipphomberger/orquesta.git@feature/3.9
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
