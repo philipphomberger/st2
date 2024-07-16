@@ -45,5 +45,5 @@ ujson==5.4.0
 # needed by integration tests for coordination
 redis==4.3.6
 pygments>=2.15.0 # not directly required, pinned by Snyk to avoid a vulnerability
-setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
 tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
