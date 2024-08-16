@@ -75,7 +75,7 @@ tenacity>=3.2.1,<7.0.0
 tooz==4.3.0
 typing-extensions==4.8.0
 unittest2
-webob==1.8.7
+webob==1.8.8
 webtest
 zake==0.2.2
 zipp<3.16.0
