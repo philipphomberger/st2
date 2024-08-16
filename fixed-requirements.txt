@@ -75,7 +75,7 @@ tooz==2.8.0
 # Note: virtualenv embeds wheels for pip, wheel, and setuptools. So pinning virtualenv pins those as well.
 # virtualenv==20.4.0 (<21) has pip==20.3.3 wheel==0.36.2 setuptools==51.3.3
 virtualenv==20.4.0
-webob==1.8.7
+webob==1.8.8
 zake==0.2.2
 # test requirements below
 bcrypt==3.2.0
