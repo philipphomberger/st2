@@ -1,1 +1,5 @@
 orquesta@ git+https://github.com/StackStorm/orquesta.git@v1.6.0
+eventlet>=0.34.3 # not directly required, pinned by Snyk to avoid a vulnerability
+jinja2>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
+ujson>=5.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+yaql>=3.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
