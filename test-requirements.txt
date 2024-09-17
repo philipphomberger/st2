@@ -44,3 +44,8 @@ zstandard==0.15.2
 ujson==4.0.2
 # needed by integration tests for coordination
 redis==3.5.3
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+jinja2>=3.1.3 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
+waitress>=2.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
