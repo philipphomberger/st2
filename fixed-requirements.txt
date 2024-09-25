@@ -41,7 +41,7 @@ oslo.utils<5.0,>=4.0.0
 # paramiko 2.11.0 is needed by cryptography > 37.0.0
 paramiko==2.11.0
 passlib==1.7.4
-prompt-toolkit==1.0.15
+prompt-toolkit==3.0.13
 pyinotify==0.9.6 ; platform_system=="Linux"
 pymongo==3.11.3
 pyparsing<3
