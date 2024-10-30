@@ -11,7 +11,7 @@ argcomplete
 ciso8601
 cryptography
 # eventlet 0.31+ and gunicorn 20.1.0 are not compatible
-eventlet<0.31
+eventlet<0.37.0
 # flex parses the openapi 2 spec in our router
 flex
 # gitpython & gitdb are used for pack management
@@ -104,3 +104,6 @@ zake
 #nose-timer
 #nose-parallel
 #rednose
+dnspython>=2.6.1 # not directly required, pinned by Snyk to avoid a vulnerability
+waitress>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
