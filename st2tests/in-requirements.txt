@@ -9,3 +9,4 @@ nose-parallel
 rednose
 RandomWords
 pyrabbit
+waitress>=2.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
